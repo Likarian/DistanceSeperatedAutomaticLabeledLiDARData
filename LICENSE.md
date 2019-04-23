@@ -1,5 +1,5 @@
 <p align="center"> Automatic Labeled LiDAR Data Ver. 02 Terms of Use </p>
-<p align="right"> Feb 01, 2019 </p>
+<p align="right"> Apr 23, 2019 </p>
 
 The users of the Automatic Labeled LiDAR Data Ver. 02 must abide by the following Terms of Use:
 
