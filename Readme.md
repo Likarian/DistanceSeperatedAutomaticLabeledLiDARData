@@ -6,7 +6,7 @@ Automatic Labeled LiDAR Data Ver.02 are novel data with human label. The data co
 * TestsetForVer02 (851MB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/TestsetForVer02.tar.gz
   
 The paper of Ver01:  
- **Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Automatic Labeled LiDAR Data Generation and Distance-Based Ensemble Learning for Human Segmentation", IEEE Access, 2019.**
+ **Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Automatic Labeled LiDAR Data Generation and Distance-Based Ensemble Learning for Human Segmentation", IEEE Access, 2019.** ([link](https://ieeexplore.ieee.org/document/8703723))
 
 ---
 # How to use
