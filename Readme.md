@@ -5,7 +5,7 @@ Distance Sperated Automatic Labeled LiDAR Data are novel data with human label. 
 * HumanDetectionVer02 (377GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/HumanDetectionVer02.tar.gz
 * TestsetForVer02 (851MB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/TestsetForVer02.tar.gz
   
-The paper of Ver01:  
+The paper of Distance Sperated Automatic Labeled LiDAR Data :  
  **Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Automatic Labeled LiDAR Data Generation and Distance-Based Ensemble Learning for Human Segmentation", IEEE Access, 2019.** ([link](https://ieeexplore.ieee.org/document/8703723))
 
 ---
