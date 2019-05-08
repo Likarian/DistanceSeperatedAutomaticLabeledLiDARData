@@ -1,6 +1,6 @@
 # Distance Sperated Automatic Labeled LiDAR Data for Human detection
 
-Distance Sperated Automatic Labeled LiDAR Data Ver.02 are novel data with human label. The data contain various generated LiDAR scenes with human label. To download the data, please check your free disk space enough and run 'DownloadAndUnzip.sh'. You can also download the data by the following url.
+Distance Sperated Automatic Labeled LiDAR Data are novel data with human label. The data contain various generated LiDAR scenes with human label. To download the data, please check your free disk space enough and run 'DownloadAndUnzip.sh'. You can also download the data by the following url.
 
 * HumanDetectionVer02 (377GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/HumanDetectionVer02.tar.gz
 * TestsetForVer02 (851MB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/TestsetForVer02.tar.gz
