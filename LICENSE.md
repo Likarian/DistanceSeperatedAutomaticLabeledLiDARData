@@ -8,7 +8,7 @@ The users of the Distance Sperated Automatic Labeled LiDAR Data must abide by th
 1. When publishing results that use this dataset, the users must cite the following paper in their publication:
      * Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Automatic Labeled LiDAR Data Generation and Distance-Based Ensemble Learning for Human Segmentation", IEEE Access, 2019.
 
-1. By downloading the Automatic Labeled LiDAR Data Ver. 02, the users are regarded as having agreed to the Terms of Use.
+1. By downloading the Distance Sperated Automatic Labeled LiDAR Data, the users are regarded as having agreed to the Terms of Use.
 
 
 <p align="right"> Copyright at 1) National Institute of Advanced Industrial Science and Technology </p>
