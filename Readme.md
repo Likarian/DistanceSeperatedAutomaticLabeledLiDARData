@@ -54,7 +54,7 @@ In directory of './TestsetForVer02/Testcode', you can see sample code for perfor
         * fcn-depth-10to20.hdf5 : *trained weight of fcn by depth with dataset 10to20*
         * fcn-depth-15to25.hdf5 : *trained weight of fcn by depth with dataset 15to25*
         * fcn-depth-20to30.hdf5 : *trained weight of fcn by depth with dataset 20to30*
-        * fcn.py : *trained weight of fcn by depth*
+        * fcn.py : *fcn architecture*
         * mtinitializers.py
         * mtutil.py
         * padding.py
